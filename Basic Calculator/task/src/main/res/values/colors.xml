@@ -8,4 +8,6 @@
     <color name="colorRed">#A33030</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorGreenLight">#2E6730</color>
+    <color name="secondary_text">#6A6A6A</color>
+
 </resources>
