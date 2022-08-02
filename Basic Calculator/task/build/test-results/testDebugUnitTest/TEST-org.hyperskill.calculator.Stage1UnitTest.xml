@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.hyperskill.calculator.Stage1UnitTest" tests="5" skipped="0" failures="5" errors="0" timestamp="2022-07-31T16:57:46" hostname="DESKTOP-LUE7L0K" time="2.84">
+<testsuite name="org.hyperskill.calculator.Stage1UnitTest" tests="5" skipped="0" failures="5" errors="0" timestamp="2022-07-31T18:43:30" hostname="DESKTOP-LUE7L0K" time="2.928">
   <properties/>
-  <testcase name="testShouldCheckButtonsText" classname="org.hyperskill.calculator.Stage1UnitTest" time="2.594">
+  <testcase name="testShouldCheckButtonsText" classname="org.hyperskill.calculator.Stage1UnitTest" time="2.655">
     <failure message="java.lang.NullPointerException" type="java.lang.NullPointerException">java.lang.NullPointerException
 	at org.hyperskill.calculator.Stage1UnitTest.testShouldCheckButtonsText(Stage1UnitTest.kt:165)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -22,7 +22,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
   </testcase>
-  <testcase name="testShouldCheckButtonsExist" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.108">
+  <testcase name="testShouldCheckButtonsExist" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.074">
     <failure message="java.lang.AssertionError: Can't find a View with this ID: button0" type="java.lang.AssertionError">java.lang.AssertionError: Can't find a View with this ID: button0
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.assertTrue(Assert.java:42)
@@ -46,7 +46,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
   </testcase>
-  <testcase name="testShouldCheckEditTextHintIsSetToZero" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.046">
+  <testcase name="testShouldCheckEditTextHintIsSetToZero" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.065">
     <failure message="java.lang.AssertionError: editText doesn't seem to be an EditText. Make sure you've chosen a correct View type." type="java.lang.AssertionError">java.lang.AssertionError: editText doesn't seem to be an EditText. Make sure you've chosen a correct View type.
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.assertTrue(Assert.java:42)
@@ -69,7 +69,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
   </testcase>
-  <testcase name="testShouldCheckEditTextContainZero" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.042">
+  <testcase name="testShouldCheckEditTextContainZero" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.057">
     <failure message="java.lang.AssertionError: editText doesn't seem to be an EditText. Make sure you've chosen a correct View type." type="java.lang.AssertionError">java.lang.AssertionError: editText doesn't seem to be an EditText. Make sure you've chosen a correct View type.
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.assertTrue(Assert.java:42)
@@ -92,7 +92,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
   </testcase>
-  <testcase name="testShouldCheckEditTextExist" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.049">
+  <testcase name="testShouldCheckEditTextExist" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.075">
     <failure message="java.lang.AssertionError: Can't find a View with this ID: editText" type="java.lang.AssertionError">java.lang.AssertionError: Can't find a View with this ID: editText
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.assertTrue(Assert.java:42)

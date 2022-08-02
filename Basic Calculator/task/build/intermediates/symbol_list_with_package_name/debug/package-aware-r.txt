@@ -1255,6 +1255,7 @@ color primary_text_disabled_material_light
 color radiobutton_themeable_attribute_color
 color ripple_material_dark
 color ripple_material_light
+color secondary_text
 color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
@@ -1835,6 +1836,7 @@ id ALT
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
+id EditText_input
 id FUNCTION
 id META
 id NO_DEBUG
@@ -1929,6 +1931,20 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
+id button10
+id button11
+id button12
+id button13
+id button14
+id button15
+id button16
+id button17
+id button18
+id button2
+id button5
+id button6
+id button9
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2032,6 +2048,8 @@ id group_divider
 id grouping
 id groups
 id guideline
+id guideline3
+id guideline4
 id header_title
 id hideable
 id home
@@ -2253,6 +2271,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
